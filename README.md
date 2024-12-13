@@ -61,6 +61,7 @@ All visualizations are saved in the `visualizations/` folder and include:
 │   ├── Revenue_Successful_Orders_by_Day.png
 ├── notebooks and report
 │   ├── EDA.ipynb
+│   ├── final_report.docx 
 ├── README.md
 ```
 
