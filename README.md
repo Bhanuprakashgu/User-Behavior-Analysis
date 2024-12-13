@@ -59,7 +59,7 @@ All visualizations are saved in the `visualizations/` folder and include:
 │   ├── Order_Count_by_Age.png
 │   ├── Order_Count_by_Location.png
 │   ├── Revenue_Successful_Orders_by_Day.png
-├── notebooks/
+├── notebooks and report
 │   ├── EDA.ipynb
 ├── README.md
 ```
